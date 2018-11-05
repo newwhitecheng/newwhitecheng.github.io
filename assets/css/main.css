@@ -897,15 +897,15 @@
 /* Section/Article */
 
 	section, article {
-		margin-bottom: 3em;
+		margin-bottom: 10em;
 	}
 
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
 			margin-bottom: 0;
-		}
+        }
 
 	header > p {
-		color: #aaa;
+		color: #555555;
 	}
 
 /* Image */
